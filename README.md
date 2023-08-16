@@ -1,4 +1,4 @@
-# twitter_analysis_NLP
+# Overview
 COVID-19 has generated a plethora of discussions on social media. Twitter has been extensively
 used as a platform to discuss facts, share opinions, and express sentiments during the times of
 crisis. It is imperative to understand that the response to COVID-19 in different areas may be
